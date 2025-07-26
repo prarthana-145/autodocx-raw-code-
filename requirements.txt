@@ -1,0 +1,25 @@
+Core ML/DL Frameworks
+torch
+transformers
+datasets
+accelerate
+
+Data Handling & Scientific Computing
+pandas
+numpy
+scikit-learn # For joblib
+
+OCR Engine
+pytesseract
+opencv-python-headless
+
+Image Processing
+Pillow
+
+Evaluation & Hyperparameter Tuning
+seqeval
+optuna
+tabulate
+
+Plotting (Optional, for notebook visualizations)
+matplotlib
