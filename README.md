@@ -7,9 +7,7 @@
 
 AutoDocX is an end-to-end solution for extracting structured information from receipt images using a fine-tuned **LayoutLMv3** model. This project leverages the power of multimodal AI, understanding both the text and the visual layout of a document to achieve high-accuracy data extraction.
 
-![Project Demo GIF](https://i.imgur.com/your-demo.gif)
-*(Recommendation: Replace the link above with a GIF of your project in action. You can use a tool like Ezgif to convert your video to a GIF.)*
-
+You can find another subpart of this project: Document Classification using Resnet with FastAPI here : [Link](https://github.com/prarthana-145/document_classificaton)
 ---
 
 ## ✨ Key Features
